@@ -13,8 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "uzishdq",
-  description: "full",
+  title: "uzishdq — Full-Stack Web Developer",
+  description:
+    "Full-Stack Web Developer specializing in Next.js, modern UI, and scalable web applications. I build clean, performant, and real-world solutions.",
+  keywords: [
+    "Full-Stack Developer",
+    "Next.js Developer",
+    "Web Developer",
+    "JavaScript",
+    "React",
+    "Portfolio",
+  ],
+  authors: [{ name: "uzishdq" }],
+  creator: "uzishdq",
 };
 
 export default function RootLayout({
