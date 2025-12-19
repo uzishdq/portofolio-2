@@ -6,7 +6,7 @@ export function Connect01() {
     <section className="py-20 flex min-h-screen flex-col items-center justify-center">
       <div className="space-y-6">
         <div className="relative z-10 space-y-3 text-center">
-          <h2 className="text-3xl font-semibold lg:text-5xl">Contact</h2>
+          <h2 className="text-3xl font-semibold lg:text-5xl">Contacts</h2>
           <p className="text-muted-foreground mx-auto max-w-3xl font-light text-sm md:text-md">
             Feel free to reach out through any of the platforms below.
           </p>

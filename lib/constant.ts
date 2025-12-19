@@ -17,7 +17,7 @@ export const projectData: Project[] = [
     ],
     img: "/pictures/ss-pok.png",
     demo: "https://your-ecommerce-demo.com",
-    github: "https://github.com/yourusername/ecommerce",
+    github: "https://github.com/uzishdq/POK-3",
   },
   {
     year: "2025",
@@ -52,7 +52,7 @@ export const projectData: Project[] = [
       "Nodemailer",
     ],
     img: "/pictures/ss-invoice-platform.png",
-    demo: "https://your-invoice-demo.com",
+    demo: "https://your-invoice-demo.vercel.app",
     github: "https://github.com/uzishdq/invoice-platform",
   },
   {
@@ -71,7 +71,7 @@ export const projectData: Project[] = [
       "JWT",
     ],
     img: "/pictures/ss-pos-back.png",
-    demo: "",
+    demo: "https://your-pos-demo.vercel.app",
     github: "https://github.com/uzishdq/pos-backend",
   },
   {
@@ -90,7 +90,7 @@ export const projectData: Project[] = [
       "Google Gemini API",
     ],
     img: "/pictures/ss-stock-market.png",
-    demo: "https://your-stock-market-demo.com",
+    demo: "https://your-stock-market-demo.vercel.app",
     github: "https://github.com/uzishdq/stock-market-app",
   },
   {
