@@ -11,7 +11,7 @@ export function Connect01() {
             Feel free to reach out through any of the platforms below.
           </p>
         </div>
-        <div className="mx-auto max-w-4xl mask-[radial-gradient(ellipse_100%_100%_at_50%_0%,#000_70%,transparent_100%)]">
+        <div className="px-4 mx-auto max-w-4xl mask-[radial-gradient(ellipse_100%_100%_at_50%_0%,#000_70%,transparent_100%)]">
           <div className="bg-background gap-x-6 grid md:grid-cols-2 dark:bg-muted/50 rounded-xl border px-6 pb-10 pt-3 shadow-xl">
             <Integration
               icon={<Linkedin />}
